@@ -1,6 +1,6 @@
 # Hi.
 
-> I am a freelance web developer specialising in JavaScript, React, Node.js, and TypeScript
+### I am a freelance web developer specialising in JavaScript, React, Node.js, and TypeScript
 
 Operating from Deurne, a small town in the south of The Netherlands, close to Eindhoven.
 
