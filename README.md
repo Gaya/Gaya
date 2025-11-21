@@ -8,4 +8,4 @@ If you would like to know more about me, you can read [https://theclevernode.com
 
 For my (quite but not really up-to-date) resumé check out: [https://github.com/Gaya/Resume](https://github.com/Gaya/Resume)
 
-[![Gaya Kessler](https://theclevernode.com/about/gaya-de-rips-stippelberg.jpg)](https://theclevernode.com/)
+[![Gaya Kessler](https://theclevernode.com/img/lpWqbmVNC6-1200.webp)](https://theclevernode.com/)
